@@ -1,0 +1,9 @@
+## Interface: 11501
+## Title: Tooltip - Waylaid Supplies
+## Author: Nykk of SoD-US-Wild Growth [Agents of Casual, Horde]
+## Notes: Adds Tooltips for Waylaid Supplies
+## IconTexture: Interface\ICONS\Inv_box_03
+## Version: 1.00
+
+data/SOD_WaylaidSupplies.lua
+Tooltip_WaylaidSupplies.lua

@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/NykkRomancer/SOD_WaylaidSupplies_Data.git
+	branch = main

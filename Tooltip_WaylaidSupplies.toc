@@ -1,0 +1,5 @@
+## Interface: 00000
+## Title: Tooltip_WaylaidSupplies|cFFFF0000 game client not supported|r
+## Notes: Tooltip WaylaidSupplies only supports Classic (SoD)
+
+VersionError.lua
